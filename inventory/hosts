@@ -1,0 +1,2 @@
+[matrix_servers]
+matrix.chatner.ch ansible_host=135.181.144.174 ansible_ssh_user=root ansible_ssh_pass=y79J3uM7LFFP6FG4
